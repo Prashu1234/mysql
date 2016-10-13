@@ -6,6 +6,9 @@ This repository is published in order to share code and information and is *not 
 
 The original README file provided with the upstream MySQL release can be found at [README-MySQL](https://github.com/twitter/mysql/blob/master/README-MySQL).
 
+Following is the link to download MySQL 5.5.50:-
+http://filehippo.com/download_mysql/
+
 # Features in Twitter MySQL #
 
 ## Additional status variables ##
